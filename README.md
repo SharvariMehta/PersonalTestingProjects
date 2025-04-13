@@ -1,5 +1,5 @@
 # PersonalTestingProjects
-Personal Projects with Test Plan and Test cases Included
+Personal Projects with Test Scenarios and Test cases Included.
 
-# Project 1 : app.vmo.com
-Objective : To generate test cases and Test Plan to Test Login Page and dashboard of app.vmo.com
+# Project 1 : app.vwo.com
+Objective : To generate Test Scenarios and Test Cases to Test Login Page of app.vwo.com
